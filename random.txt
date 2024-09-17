@@ -1,0 +1,11 @@
+Created random.txt file 
+
+with start random.txt 
+
+this command 
+
+for save 
+
+crtl+ S
+
+ctrl+ w -> close
